@@ -1,0 +1,1372 @@
+graph
+[
+	hierarchic 1
+	directed 1
+	node
+	[		id	1
+		graphics
+		[
+			x	3600.0
+			y	2300.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#8ec43a"
+		]
+		LabelGraphics
+		[
+			text	"1"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	2
+		graphics
+		[
+			x	3100.0
+			y	3300.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#8ec43a"
+		]
+		LabelGraphics
+		[
+			text	"2"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	3
+		graphics
+		[
+			x	4700.0
+			y	5750.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#1d7a43"
+		]
+		LabelGraphics
+		[
+			text	"3"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	4
+		graphics
+		[
+			x	5400.0
+			y	5750.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#1d7a43"
+		]
+		LabelGraphics
+		[
+			text	"4"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	5
+		graphics
+		[
+			x	5608.0
+			y	7103.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#1d7a43"
+		]
+		LabelGraphics
+		[
+			text	"5"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	6
+		graphics
+		[
+			x	4493.0
+			y	7102.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#1d7a43"
+		]
+		LabelGraphics
+		[
+			text	"6"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	7
+		graphics
+		[
+			x	3600.0
+			y	6950.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#1d7a43"
+		]
+		LabelGraphics
+		[
+			text	"7"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	8
+		graphics
+		[
+			x	3100.0
+			y	7250.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#1d7a43"
+		]
+		LabelGraphics
+		[
+			text	"8"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	9
+		graphics
+		[
+			x	4700.0
+			y	8450.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#1d7a43"
+		]
+		LabelGraphics
+		[
+			text	"9"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	10
+		graphics
+		[
+			x	5400.0
+			y	8450.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#1d7a43"
+		]
+		LabelGraphics
+		[
+			text	"10"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	11
+		graphics
+		[
+			x	5610.0
+			y	10053.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#cb5f6"
+		]
+		LabelGraphics
+		[
+			text	"11"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	12
+		graphics
+		[
+			x	4492.0
+			y	10052.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#d1fd0"
+		]
+		LabelGraphics
+		[
+			text	"12"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	13
+		graphics
+		[
+			x	3600.0
+			y	10800.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#d1fd0"
+		]
+		LabelGraphics
+		[
+			text	"13"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	14
+		graphics
+		[
+			x	3100.0
+			y	10950.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#d1fd0"
+		]
+		LabelGraphics
+		[
+			text	"14"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	15
+		graphics
+		[
+			x	4700.0
+			y	11650.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#d1fd0"
+		]
+		LabelGraphics
+		[
+			text	"15"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	16
+		graphics
+		[
+			x	5400.0
+			y	11650.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#d1fd0"
+		]
+		LabelGraphics
+		[
+			text	"16"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	17
+		graphics
+		[
+			x	6650.0
+			y	10800.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#cb5f6"
+		]
+		LabelGraphics
+		[
+			text	"17"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	18
+		graphics
+		[
+			x	7300.0
+			y	10950.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#cb5f6"
+		]
+		LabelGraphics
+		[
+			text	"18"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	19
+		graphics
+		[
+			x	7300.0
+			y	7250.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#e9414b"
+		]
+		LabelGraphics
+		[
+			text	"19"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	20
+		graphics
+		[
+			x	6650.0
+			y	6950.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#e9414b"
+		]
+		LabelGraphics
+		[
+			text	"20"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	21
+		graphics
+		[
+			x	7300.0
+			y	3300.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#11d303"
+		]
+		LabelGraphics
+		[
+			text	"21"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	22
+		graphics
+		[
+			x	6650.0
+			y	2300.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#11d303"
+		]
+		LabelGraphics
+		[
+			text	"22"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	23
+		graphics
+		[
+			x	5400.0
+			y	1600.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#11d303"
+		]
+		LabelGraphics
+		[
+			text	"23"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	24
+		graphics
+		[
+			x	8350.0
+			y	2300.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#11d303"
+		]
+		LabelGraphics
+		[
+			text	"24"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	25
+		graphics
+		[
+			x	7850.0
+			y	3300.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#11d303"
+		]
+		LabelGraphics
+		[
+			text	"25"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	26
+		graphics
+		[
+			x	9450.0
+			y	5750.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#e9414b"
+		]
+		LabelGraphics
+		[
+			text	"26"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	27
+		graphics
+		[
+			x	10150.0
+			y	5750.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#e9414b"
+		]
+		LabelGraphics
+		[
+			text	"27"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	28
+		graphics
+		[
+			x	10358.0
+			y	7103.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#e9414b"
+		]
+		LabelGraphics
+		[
+			text	"28"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	29
+		graphics
+		[
+			x	9243.0
+			y	7102.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#e9414b"
+		]
+		LabelGraphics
+		[
+			text	"29"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	30
+		graphics
+		[
+			x	8350.0
+			y	6950.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#e9414b"
+		]
+		LabelGraphics
+		[
+			text	"30"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	31
+		graphics
+		[
+			x	7850.0
+			y	7250.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#e9414b"
+		]
+		LabelGraphics
+		[
+			text	"31"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	32
+		graphics
+		[
+			x	9450.0
+			y	8450.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#e9414b"
+		]
+		LabelGraphics
+		[
+			text	"32"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	33
+		graphics
+		[
+			x	10150.0
+			y	8450.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#e9414b"
+		]
+		LabelGraphics
+		[
+			text	"33"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	34
+		graphics
+		[
+			x	10360.0
+			y	10053.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#fdfda2"
+		]
+		LabelGraphics
+		[
+			text	"34"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	35
+		graphics
+		[
+			x	9242.0
+			y	10052.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#cb5f6"
+		]
+		LabelGraphics
+		[
+			text	"35"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	36
+		graphics
+		[
+			x	8350.0
+			y	10800.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#cb5f6"
+		]
+		LabelGraphics
+		[
+			text	"36"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	37
+		graphics
+		[
+			x	7850.0
+			y	10950.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#cb5f6"
+		]
+		LabelGraphics
+		[
+			text	"37"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	38
+		graphics
+		[
+			x	9450.0
+			y	11650.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#fdfda2"
+		]
+		LabelGraphics
+		[
+			text	"38"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	39
+		graphics
+		[
+			x	10150.0
+			y	11650.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#fdfda2"
+		]
+		LabelGraphics
+		[
+			text	"39"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	40
+		graphics
+		[
+			x	11400.0
+			y	10800.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#fdfda2"
+		]
+		LabelGraphics
+		[
+			text	"40"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	41
+		graphics
+		[
+			x	12050.0
+			y	10950.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#fdfda2"
+		]
+		LabelGraphics
+		[
+			text	"41"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	42
+		graphics
+		[
+			x	12050.0
+			y	7250.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#50b9aa"
+		]
+		LabelGraphics
+		[
+			text	"42"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	43
+		graphics
+		[
+			x	11400.0
+			y	6950.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#e9414b"
+		]
+		LabelGraphics
+		[
+			text	"43"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	44
+		graphics
+		[
+			x	12050.0
+			y	3300.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#e4c968"
+		]
+		LabelGraphics
+		[
+			text	"44"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	45
+		graphics
+		[
+			x	11400.0
+			y	2300.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#e4c968"
+		]
+		LabelGraphics
+		[
+			text	"45"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	46
+		graphics
+		[
+			x	10150.0
+			y	1600.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#e4c968"
+		]
+		LabelGraphics
+		[
+			text	"46"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	47
+		graphics
+		[
+			x	13100.0
+			y	2300.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#e4c968"
+		]
+		LabelGraphics
+		[
+			text	"47"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	48
+		graphics
+		[
+			x	12600.0
+			y	3300.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#e4c968"
+		]
+		LabelGraphics
+		[
+			text	"48"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	49
+		graphics
+		[
+			x	14200.0
+			y	5750.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#50b9aa"
+		]
+		LabelGraphics
+		[
+			text	"49"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	50
+		graphics
+		[
+			x	14900.0
+			y	5750.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#e4ae36"
+		]
+		LabelGraphics
+		[
+			text	"50"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	51
+		graphics
+		[
+			x	15108.0
+			y	7103.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#50b9aa"
+		]
+		LabelGraphics
+		[
+			text	"51"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	52
+		graphics
+		[
+			x	13993.0
+			y	7102.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#50b9aa"
+		]
+		LabelGraphics
+		[
+			text	"52"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	53
+		graphics
+		[
+			x	13100.0
+			y	6950.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#50b9aa"
+		]
+		LabelGraphics
+		[
+			text	"53"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	54
+		graphics
+		[
+			x	12600.0
+			y	7250.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#50b9aa"
+		]
+		LabelGraphics
+		[
+			text	"54"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	55
+		graphics
+		[
+			x	14200.0
+			y	8450.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#50b9aa"
+		]
+		LabelGraphics
+		[
+			text	"55"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	56
+		graphics
+		[
+			x	14900.0
+			y	8450.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#50b9aa"
+		]
+		LabelGraphics
+		[
+			text	"56"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	57
+		graphics
+		[
+			x	15110.0
+			y	10053.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#74ded0"
+		]
+		LabelGraphics
+		[
+			text	"57"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	58
+		graphics
+		[
+			x	13992.0
+			y	10052.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#50b9aa"
+		]
+		LabelGraphics
+		[
+			text	"58"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	59
+		graphics
+		[
+			x	13100.0
+			y	10800.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#fdfda2"
+		]
+		LabelGraphics
+		[
+			text	"59"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	60
+		graphics
+		[
+			x	12600.0
+			y	10950.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#fdfda2"
+		]
+		LabelGraphics
+		[
+			text	"60"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	61
+		graphics
+		[
+			x	14200.0
+			y	11650.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#74ded0"
+		]
+		LabelGraphics
+		[
+			text	"61"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	62
+		graphics
+		[
+			x	14900.0
+			y	11650.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#74ded0"
+		]
+		LabelGraphics
+		[
+			text	"62"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	63
+		graphics
+		[
+			x	16150.0
+			y	10800.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#74ded0"
+		]
+		LabelGraphics
+		[
+			text	"63"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	64
+		graphics
+		[
+			x	16800.0
+			y	10950.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#74ded0"
+		]
+		LabelGraphics
+		[
+			text	"64"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	65
+		graphics
+		[
+			x	16800.0
+			y	7250.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#e4ae36"
+		]
+		LabelGraphics
+		[
+			text	"65"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	66
+		graphics
+		[
+			x	16150.0
+			y	6950.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#e4ae36"
+		]
+		LabelGraphics
+		[
+			text	"66"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	67
+		graphics
+		[
+			x	16800.0
+			y	3300.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#c93e8b"
+		]
+		LabelGraphics
+		[
+			text	"67"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	68
+		graphics
+		[
+			x	16150.0
+			y	2300.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#c93e8b"
+		]
+		LabelGraphics
+		[
+			text	"68"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	69
+		graphics
+		[
+			x	14900.0
+			y	1600.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#c93e8b"
+		]
+		LabelGraphics
+		[
+			text	"69"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	70
+		graphics
+		[
+			x	19800.0
+			y	800.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#449587"
+		]
+		LabelGraphics
+		[
+			text	"70"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	71
+		graphics
+		[
+			x	19800.0
+			y	10000.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#9cafab"
+		]
+		LabelGraphics
+		[
+			text	"71"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	72
+		graphics
+		[
+			x	19800.0
+			y	11900.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#9cafab"
+		]
+		LabelGraphics
+		[
+			text	"72"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	73
+		graphics
+		[
+			x	19800.0
+			y	12200.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#9cafab"
+		]
+		LabelGraphics
+		[
+			text	"73"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	74
+		graphics
+		[
+			x	200.0
+			y	12200.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#a8a18c"
+		]
+		LabelGraphics
+		[
+			text	"74"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	75
+		graphics
+		[
+			x	200.0
+			y	1100.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#eb96ba"
+		]
+		LabelGraphics
+		[
+			text	"75"
+			fontSize	40
+		]
+	]
+
+	node
+	[		id	76
+		graphics
+		[
+			x	200.0
+			y	800.0
+			w	60
+			h	60
+			type	"ellipse"
+			fill	"#eb96ba"
+		]
+		LabelGraphics
+		[
+			text	"76"
+			fontSize	40
+		]
+	]
+
